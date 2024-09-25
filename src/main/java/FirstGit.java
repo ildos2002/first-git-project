@@ -3,5 +3,6 @@ public class FirstGit {
         System.out.println("First commit!");
         System.out.println("learning!");
         System.out.println("Its LINE!");
+        System.out.println("new line.");
     }
 }
