@@ -4,5 +4,6 @@ public class FirstGit {
         System.out.println("learning!");
         System.out.println("Its LINE!");
         System.out.println("new line.");
+        System.out.println("new add");
     }
 }
